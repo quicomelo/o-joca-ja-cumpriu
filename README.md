@@ -5,4 +5,4 @@
 
 O Joca Já Cumpriu nasce da necessidade de manter a democracia, de um sentimento de insatisfação e contestação pelo estado da política em Valpaços.
 
-O principal objectivo é permitir seguir as promessas eleitorais de uma forma simples e, em caso de serem cumpridas, serem referenciadas com a devida documentação: links para notícias, leis, etc.
+O principal objectivo é permitir seguir as promessas eleitorais do Presidente Jorge Mata Pires para o mandato 2025-2029 de uma forma simples e, em caso de serem cumpridas, serem referenciadas com a devida documentação: links para notícias, leis, etc.
