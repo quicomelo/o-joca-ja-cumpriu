@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <div>
       <div className='text-center mb-12'>
-        <h1 className='text-4xl mb-4'>Parabéns, <strong>{PARTY_NAME}</strong> 2024!</h1>
+        <h1 className='text-4xl mb-4'>O Joca Já Cumpriu?</h1>
         <a className='underline' href="/programas/programa.pdf">Programa</a>
       </div>
 
@@ -23,6 +23,6 @@ export default async function Home() {
 
 export async function generateMetadata() {
   return {
-    title: "O Governo Já Cumpriu?",
+    title: "O Joca Já Cumpriu?",
   }
 }
