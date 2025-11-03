@@ -4,7 +4,7 @@ export default function Sobre() {
     <div>
       <h1 className='text-4xl font-bold mb-12'>Termos e Condições</h1>
 
-      <p className="py-1">Estes termos e condições descrevem as regras e regulamentos para o uso do site O Governo Já Cumpriu, localizado em https://ogovernojacumpriu.pt.</p>
+      <p className="py-1">Estes termos e condições descrevem as regras e regulamentos para o uso do site O Governo Já Cumpriu, localizado em https://ojocajacumpriu.vercel.com.</p>
       <p className="py-1">Ao aceder a este site, presumimos que aceita estes termos e condições. Não continue a usar O Governo Já Cumpriu? se não concordar com todos os termos e condições declarados nesta página.</p>
 
       <h2 className="text-3xl font-bold pb-2 pt-5">Licença:</h2>

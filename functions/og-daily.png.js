@@ -58,5 +58,5 @@ export const onRequestGet = async ({ request, env }) => {
     await generateAndUploadImage(env.GOVERNO_BUCKET, env.BASE_IMG_URL, env.STATS_URL);
   }
 
-  return Response.redirect(`https://b.ogovernojacumpriu.pt/${todaysImageName()}`, 302);
+  return Response.redirect(`https://b.ojocajacumpriu.vercel.com/${todaysImageName()}`, 302);
 };

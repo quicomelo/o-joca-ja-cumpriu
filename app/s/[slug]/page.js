@@ -14,7 +14,7 @@ function generateJsonLd(title, slug) {
         "@type": "ListItem",
         "position": 1,
         "name": title,
-        "item": `https://ogovernojacumpriu.pt/s/${slug}`
+        "item": `https://ojocajacumpriu.vercel.com/s/${slug}`
       }
     ]
   }
