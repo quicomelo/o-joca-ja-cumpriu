@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
         <meta property="og:locale" content="pt_PT" />
         <meta property="og:url" content="https://ojocajacumpriu.vercel.com/" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="O Governo Já Cumpriu?" />
+        <meta property="og:title" content="O Joca Já Cumpriu?" />
         <meta property="og:description" content="A seguir as promessas eleitorais do Presidente da Câmara Municipal de Valpaços desde 2025" />
         <meta property="og:image" content="https://ojocajacumpriu.vercel.com/og-daily.png" />
         <meta property="og:image:width" content="1200" />

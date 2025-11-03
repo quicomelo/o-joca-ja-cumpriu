@@ -27,7 +27,7 @@ Usa a seguinte imagem para seguir em tempo real quantas promessas/propostas já 
 
 ### HTML
 ```html
-<a href="https://ojocajacumpriu.vercel.com?utm_campaign=cumpridometro"><img alt="O Governo Já Cumpriu?" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fandrepcg%2Fo-governo-ja-cumpriu%2Fraw%2Fmain%2Fcumpridometro.json&query=%24.text&label=Cumprid%C3%B3metro&color=blue" /></a>
+<a href="https://ojocajacumpriu.vercel.com?utm_campaign=cumpridometro"><img alt="O Joca Já Cumpriu?" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fandrepcg%2Fo-governo-ja-cumpriu%2Fraw%2Fmain%2Fcumpridometro.json&query=%24.text&label=Cumprid%C3%B3metro&color=blue" /></a>
 ```
 
 ### Markdown
