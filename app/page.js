@@ -1,5 +1,4 @@
 import { getSections } from '@/lib/promessas';
-import { PARTY_NAME } from '../consts';
 import Section from '@/app/_components/section';
 
 export default async function Home() {
