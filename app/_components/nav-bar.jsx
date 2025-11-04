@@ -20,9 +20,9 @@ export default function NavBar() {
       <ul className='flex flex-row'>
         {pathname !== '/' && <li className='px-2 pl-0'><Link href="/" className="text-gray-400 text-sm hover:underline">Home</Link></li>}
         <li className='px-2'><Link href="/sobre" className="text-gray-400 text-sm hover:underline">Sobre</Link></li>
-        <li className='px-2'><Link href="/como-contribuir" className="text-gray-400 text-sm hover:underline">Como contribuir?</Link></li>
+        {/*<li className='px-2'><Link href="/como-contribuir" className="text-gray-400 text-sm hover:underline">Como contribuir?</Link></li>*/}
         <li className='px-2'>
-          <a href={REPO_URL} className="text-gray-400 text-sm"><GithubIcon /></a>
+          {/*<a href={REPO_URL} className="text-gray-400 text-sm"><GithubIcon /></a>*/}
         </li>
         <li className='px-2'><Link href="/termos" className="text-gray-300 text-sm hover:underline">T&C</Link></li>
         <li className='px-2'><Link href="/privacidade" className="text-gray-300 text-sm hover:underline">PP</Link></li>
