@@ -22,10 +22,10 @@ export default function NavBar() {
         {/* Linha "Como contribuir?" removida */}
         {/* Ícone GitHub removido */}
         <li className='px-2'>
-          <Link href="/termos" className="text-gray-300 text-sm hover:underline">T&C</Link>
+          <Link href="/termos" className="text-gray-300 text-sm hover:underline">Termos & Condições</Link>
         </li>
         <li className='px-2'>
-          <Link href="/privacidade" className="text-gray-300 text-sm hover:underline">PP</Link>
+          <Link href="/privacidade" className="text-gray-300 text-sm hover:underline">Política de Privacidade</Link>
         </li>
       </ul>
     </navbar>
