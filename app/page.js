@@ -1,5 +1,6 @@
 import { getSections } from '@/lib/promessas';
 import Section from '@/app/_components/section';
+import Cumpridometro from '@/app/_components/cumpridometro';
 
 export default async function Home() {
   const sections = getSections();
@@ -8,6 +9,7 @@ export default async function Home() {
     <div>
       <div className='text-center mb-12'>
         <h1 className='text-4xl mb-4'>O Joca Já Cumpriu?</h1>
+        <Cumpridometro />
         <a className='underline' href="/programas/programa.pdf">Programa</a>
       </div>
 
