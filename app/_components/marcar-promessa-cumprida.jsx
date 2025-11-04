@@ -59,7 +59,7 @@ function Form({ onComplete, docPath }) {
       <input type="hidden" name="doc_path" value={docPath} />
 
       <div className="col-span-full">
-        <p>Alternativamente, edita a informação no repositório (<a className="hover:underline text-blue-400" href={gitEditUrl(docPath)}>link</a>)</p>
+        {/*<p>Alternativamente, edita a informação no repositório (<a className="hover:underline text-blue-400" href={gitEditUrl(docPath)}>link</a>)</p>*/}
       </div>
 
       <div className="sm:col-span-4">
