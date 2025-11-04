@@ -22,6 +22,8 @@ export default function Sobre() {
       <p className="py-1">Protegemos as informações que nos fornece nos servidores de computador num ambiente controlado e seguro, protegido contra acesso, uso ou divulgação não autorizados. Mantemos salvaguardas administrativas, técnicas e físicas razoáveis para proteger contra acesso não autorizado, uso, modificação e divulgação de dados pessoais no seu controlo e custódia. No entanto, nenhuma transmissão de dados pela Internet ou rede sem fio pode ser garantida.</p>
       <h2 className="text-3xl font-bold pb-2 pt-5">Divulgação legal:</h2>
       <p className="py-1">Divulgaremos todas as informações que recolhermos, usarmos ou recebermos se exigido ou permitido por lei, como para cumprir uma intimação ou processo legal semelhante, e quando acreditar de boa fé que a divulgação é necessária para proteger os nossos direitos, proteger a sua segurança ou a segurança de outras pessoas, investigar fraudes ou responder a uma solicitação governamental.</p>
+      <h2 className="text-3xl font-bold pb-2 pt-5">Informações de contacto:</h2>
+      <p className="py-1">Se desejar entrar em contacto conosco para entender mais sobre esta Política ou se quiser falar sobre qualquer assunto relacionado aos direitos individuais e as suas informações pessoais, pode enviar um email para ojocajacumpriu@proton.me.</p>    
     </div>
   )
 }
