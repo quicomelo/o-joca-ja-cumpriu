@@ -23,7 +23,6 @@ export default function Sobre() {
       <h2 className="text-3xl font-bold pb-2 pt-5">Divulgação legal:</h2>
       <p className="py-1">Divulgaremos todas as informações que recolhermos, usarmos ou recebermos se exigido ou permitido por lei, como para cumprir uma intimação ou processo legal semelhante, e quando acreditar de boa fé que a divulgação é necessária para proteger os nossos direitos, proteger a sua segurança ou a segurança de outras pessoas, investigar fraudes ou responder a uma solicitação governamental.</p>
       <h2 className="text-3xl font-bold pb-2 pt-5">Informações de contacto:</h2>
-      <p className="py-1">Se desejar entrar em contacto conosco para entender mais sobre esta Política ou se quiser falar sobre qualquer assunto relacionado aos direitos individuais e as suas informações pessoais, pode enviar um email para .</p>
     </div>
   )
 }

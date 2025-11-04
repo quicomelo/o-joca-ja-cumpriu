@@ -4,11 +4,11 @@ export default function Sobre() {
     <div>
       <h1 className='text-4xl font-bold mb-12'>Termos e Condições</h1>
 
-      <p className="py-1">Estes termos e condições descrevem as regras e regulamentos para o uso do site O Joca Já Cumpriu, localizado em https://ojocajacumpriu.vercel.com.</p>
+      <p className="py-1">Estes termos e condições descrevem as regras e regulamentos para o uso do site O Joca Já Cumpriu, localizado em ojocajacumpriu.vercel.com.</p>
       <p className="py-1">Ao aceder a este site, presumimos que aceita estes termos e condições. Não continue a usar O Joca Já Cumpriu? se não concordar com todos os termos e condições declarados nesta página.</p>
 
       <h2 className="text-3xl font-bold pb-2 pt-5">Licença:</h2>
-      <p className="py-1"><a href="https://github.com/andrepcg/o-governo-ja-cumpriu/blob/main/LICENSE">GNU General Public License v3.0</a></p>
+      <p className="py-1"><a href="https://github.com/quicomelo/o-joca-ja-cumpriu/blob/main/LICENSE">GNU General Public License v3.0</a></p>
 
 
       <h2 className="text-3xl font-bold pb-2 pt-5">Cookies:</h2>
