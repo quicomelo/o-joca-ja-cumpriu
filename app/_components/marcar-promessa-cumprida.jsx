@@ -3,7 +3,7 @@
 import ReactRecaptcha3 from 'react-google-recaptcha3';
 import { useState, useEffect } from 'react';
 
-import { REPO_URL } from '@/consts';
+
 
 const PLACEHOLDER = `https://sapo.pt/noticia-1
 https://sapo.pt/noticia-2
@@ -15,9 +15,7 @@ function formatDataToObject(formData) {
   return Object.fromEntries(formData);
 }
 
-function gitEditUrl(docPath) {
-  return `${REPO_URL}/edit/main${docPath}`;
-}
+
 
 function Form({ onComplete, docPath }) {
   const [error, setError] = useState();
