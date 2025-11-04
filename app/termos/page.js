@@ -4,7 +4,7 @@ export default function Sobre() {
     <div>
       <h1 className='text-4xl font-bold mb-12'>Termos e Condições</h1>
 
-      <p className="py-1">Estes termos e condições descrevem as regras e regulamentos para o uso do site O Joca Já Cumpriu?, localizado em ojocajacumpriu.vercel.com.</p>
+      <p className="py-1">Estes termos e condições descrevem as regras e regulamentos para o uso do site O Joca Já Cumpriu?, localizado em ojocajacumpriu.vercel.app.</p>
       <p className="py-1">Ao aceder a este site, presumimos que aceita estes termos e condições. Não continue a usar O Joca Já Cumpriu? se não concordar com todos os termos e condições declarados nesta página.</p>
 
       <h2 className="text-3xl font-bold pb-2 pt-5">Licença:</h2>
@@ -15,7 +15,7 @@ export default function Sobre() {
       <p className="py-1">O site usa cookies para ajudar a personalizar a sua experiência online. Ao aceder ao O Joca Já Cumpriu?, concordou em usar os cookies necessários para o seu funcionamento.</p>
 
       <h2 className="text-3xl font-bold pb-2 pt-5">Responsabilidade pelo conteúdo:</h2>
-      <p className="py-1">Não se garante a adequabilidade do serviço para nenhum fim específico, sendo sua responsabilidade exclusiva certificar-se de que os conteúdos disponibilizados pelo Elege preenchem as suas necessidades particulares, apresentam carácter autêntico e de que se observam todas as disposições legais aplicáveis à sua situação em concreto.</p>
+      <p className="py-1">Não se garante a adequabilidade do serviço para nenhum fim específico, sendo sua responsabilidade exclusiva certificar-se de que os conteúdos disponibilizados por este site preenchem as suas necessidades particulares, apresentam carácter autêntico e de que se observam todas as disposições legais aplicáveis à sua situação em concreto.</p>
       <p className="py-1">Nenhum link deve aparecer em qualquer site que possa ser interpretado como calunioso, obsceno ou criminoso, ou que infrinja, de outra forma viole ou defenda a violação ou outra violação de quaisquer direitos de terceiros.</p>
     </div>
   )
