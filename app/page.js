@@ -13,9 +13,9 @@ export default async function Home() {
       <Image
           src="/imagens/presidente.png"
           alt="Presidente da Câmara"
-          width={200}
-          height={200}
-          className="mx-auto rounded-full mb-4 shadow-lg"
+          width={250}
+          height={250}
+          className="mx-auto rounded-full object-cover shadow-lg"
         />
         <h1 className='text-4xl mb-4'>O Joca Já Cumpriu?</h1>
         <Cumpridometro />
