@@ -4,13 +4,13 @@ import Link from 'next/link'
 import { getPromessasData, getSectionPromessa, getSectionPromessaPreviousNext } from '@/lib/promessas';
 import { pullRequestsForDocument } from '@/lib/github';
 
-import MarcarPromessaCumprida from '@/app/_components/marcar-promessa-cumprida';
+// import MarcarPromessaCumprida from '@/app/_components/marcar-promessa-cumprida';
 
 async function GithubPullRequests({ docPath }) {
   const prs = await pullRequestsForDocument(docPath)
 
   if (prs.length === 0) {
-    return <MarcarPromessaCumprida docPath={docPath} />
+    return null;
   }
 
   return (
