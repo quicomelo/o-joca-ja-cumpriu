@@ -2,7 +2,7 @@ import { getSections } from '@/lib/promessas';
 import Section from '@/app/_components/section';
 import Cumpridometro from '@/app/_components/cumpridometro';
 import Image from 'next/image';
-import { getSections } from '@/lib/promessas';
+
 
 export default async function Home() {
   const sections = getSections();
