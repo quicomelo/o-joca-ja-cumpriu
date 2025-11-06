@@ -1,4 +1,4 @@
-![cumpridometro](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fandrepcg%2Fo-governo-ja-cumpriu%2Fraw%2Fmain%2Fcumpridometro.json&query=%24.text&label=Cumprid%C3%B3metro&color=blue)
+![cumpridometro](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fquicomelo%2Fo-joca-ja-cumpriu%2Fraw%2Fmain%2Fcumpridometro.json&query=%24.text&label=Cumprid%C3%B3metro&color=blue)
 
 
 # O que é isto?
