@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
       <script
           async
           src="https://analytics.caixamagica.cloud/script.js"
-          data-website-id="O_TEUIDb1a021cc-b82f-4f71-bb58-038b540d9091"
+          data-website-id="b1a021cc-b82f-4f71-bb58-038b540d9091"
         ></script>
         <meta name="theme-color" content="#000" />
         <meta name="description" content="A seguir as promessas eleitorais do Presidente da Câmara Municipal de Valpaços desde 2025"></meta>
