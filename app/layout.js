@@ -13,6 +13,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="pt">
       <head>
+      <script
+          async
+          src="https://cloud.umami.is/script.js"
+          data-website-id="51937174-4a33-49cb-ae32-5dd644eba6e7"
+        ></script>
         <meta name="theme-color" content="#000" />
         <meta name="description" content="A seguir as promessas eleitorais do Presidente da Câmara Municipal de Valpaços desde 2025"></meta>
         <meta name="keywords" content="eleições autárquicas, valpaços, autárquicas, eleições, 2025, promessas, programa eleitoral, cumprir, psd, joca, jorge mata pires, open-source, github, pan"></meta>
