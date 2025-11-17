@@ -13,11 +13,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="pt">
       <head>
-      <script
-          async
-          src="https://analytics.caixamagica.cloud/script.js"
-          data-website-id="b1a021cc-b82f-4f71-bb58-038b540d9091"
-        ></script>
         <meta name="theme-color" content="#000" />
         <meta name="description" content="A seguir as promessas eleitorais do Presidente da Câmara Municipal de Valpaços desde 2025"></meta>
         <meta name="keywords" content="eleições autárquicas, valpaços, autárquicas, eleições, 2025, promessas, programa eleitoral, cumprir, psd, joca, jorge mata pires, open-source, github, pan"></meta>
